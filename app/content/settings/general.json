@@ -2,7 +2,7 @@
   "title": "Home",
   "titleTemplate": "| Merva Website",
   "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/m-removebg-preview.png",
+  "logo": "/images/uploads/m.png",
   "icon": "/images/uploads/m-removebg-preview.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
