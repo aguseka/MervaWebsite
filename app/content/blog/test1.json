@@ -2,5 +2,6 @@
   "publishedAt": "23rd Apr 2021",
   "title": "test1",
   "content": "hello",
-  "featuredImage": null
+  "featuredImage": "/images/uploads/pakistani-chicken-biryani.jpg",
+  "seoMetaImage": ""
 }
